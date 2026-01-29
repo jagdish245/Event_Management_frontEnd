@@ -15,7 +15,7 @@ Frontend application for the Event Management platform.
 - Admin interface for managing events
 
 ## Backend API
-[https://github.com/your-username/backend-repo](https://github.com/jagdish245/Event_Management_backEnd)
+[https://github.com/jagdish245/Event_Management_backEnd](https://github.com/jagdish245/Event_Management_backEnd)
 
 ## Setup Instructions
 1. Clone the repository  
